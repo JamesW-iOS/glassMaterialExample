@@ -28,6 +28,7 @@
 		25B0C3C52BFEE164008495E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		25B0C3C72BFEE164008495E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25B0C3CD2BFEF972008495E4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		25B0C3CF2BFEF9C6008495E4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		25B0C3AA2BFEE162008495E4 = {
 			isa = PBXGroup;
 			children = (
+				25B0C3CF2BFEF9C6008495E4 /* README.md */,
 				25B0C3CD2BFEF972008495E4 /* .gitignore */,
 				25B0C3B52BFEE162008495E4 /* glassMaterialExample */,
 				25B0C3B62BFEE162008495E4 /* Packages */,
